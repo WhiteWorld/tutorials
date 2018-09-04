@@ -1,2 +1,4 @@
 .idea
 .python-version
+notebook/model/
+notebook/.ipynb_checkpoints
